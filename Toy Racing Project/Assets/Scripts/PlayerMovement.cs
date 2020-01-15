@@ -21,8 +21,6 @@ public class PlayerMovement : MonoBehaviour
     {
         m_horizontalInput = Input.GetAxisRaw("Horizontal");
         m_verticalInput = Input.GetAxisRaw("Vertical");
-        m_horizontalInput = Input.GetAxisRaw("Horizontal");
-        m_verticalInput = Input.GetAxisRaw("Vertical");
     }
 
     private void Steer()

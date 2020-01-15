@@ -9,7 +9,7 @@ public class CameraController : MonoBehaviour
     public float m_Height = 10f;
     public float m_Distance = 20f;
     public float m_Angle = 70f;
-    public float m_SmoothSpeed = 2f;
+    public float m_SmoothSpeed = 0.5f;
 
     //Private Variables
     private Vector3 refVelocity;
