@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu/Main Menu.unity
-    guid: cc244cf42fdfaba4391959610fef51e8
+    path: Assets/Scenes/OG Track.unity
+    guid: 25860c44451bc7948add1450e40763b1
   - enabled: 1
-    path: Assets/Scenes/TestTrack/TestTrack.unity
-    guid: 2d277e1f28b3f594a9042d68126e4497
+    path: Assets/Scenes/Mobile Track.unity
+    guid: c13e6c57a9ea01746931ca793c365f07
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer Track.unity
+    guid: 802e5a60058c0fe4a87153b77b1db810
+  - enabled: 1
+    path: Assets/Scenes/Water Track.unity
+    guid: b683ea4feab7c2a4da89acb2a37ab1ca
   m_configObjects: {}
