@@ -39,4 +39,4 @@ Current version 0.1.0
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/saylorz/toy-racing/blob/master/LICENSE) file for details
 
 ## Acknowledgements
-- [Kenney]("https://kenney.nl/") - Inspiration for movement controller
+- [Kenney](https://kenney.nl/) - Inspiration for movement controller
