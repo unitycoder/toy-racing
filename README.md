@@ -29,7 +29,7 @@ Now youre all setup with in the Unity environment!
 - [Blender](https://www.blender.org/download/) - 3D Modelling 
 
 ## Versioning
-We use [SemVer](https://semver.org/) for versioning. For versions available, see the tags on this repository
+Current version 0.1.0
 
 ## Authors
 - **Zac Saylor** - *Main contributor* - [saylorz](https://github.com/saylorz)
