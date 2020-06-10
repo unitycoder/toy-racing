@@ -1,4 +1,4 @@
-# Toy Racing
+# Arcade Car Physics
 Racing game themed as toy cars driving on tracks similar to dollhouse maps
 
 ## Getting Started
@@ -29,14 +29,13 @@ Now youre all setup with in the Unity environment!
 - [Blender](https://www.blender.org/download/) - 3D Modelling 
 
 ## Versioning
-Current version 0.1.0
+Current version 1.0
 
 ## Authors
 - **Zac Saylor** - *Main contributor* - [saylorz](https://github.com/saylorz)
-- **Tyler Simpson** - *Networking and minor Contributions* 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/saylorz/toy-racing/blob/master/LICENSE) file for details
 
 ## Acknowledgements
-- [Kenney](https://kenney.nl/) - Inspiration for movement controller
+- [Kenney](https://kenney.nl/) - Inspiration and models
